@@ -1,3 +1,3 @@
-# Udacity-Git-practice
+# Git-practice
 
-practiced git commands following course on Udacity
+practiced git commands following course on Udacity, Youtube etc.
